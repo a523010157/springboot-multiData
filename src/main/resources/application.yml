@@ -1,4 +1,4 @@
-# ¶Á¿â
+# è¯»
 spring:
   datasource:
     read:
@@ -7,7 +7,7 @@ spring:
       password: root
       driver-class-name: com.mysql.jdbc.Driver
 
-# Ð´¿â
+# å†™
 spring:
   datasource:
     write:
