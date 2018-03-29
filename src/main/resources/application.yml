@@ -1,0 +1,17 @@
+# ¶Á¿â
+spring:
+  datasource:
+    read:
+      url: jdbc:mysql://X.X.X.X:port/titan?characterEncoding=UTF-8
+      username: root
+      password: root
+      driver-class-name: com.mysql.jdbc.Driver
+
+# Ð´¿â
+spring:
+  datasource:
+    write:
+      url: jdbc:mysql://X.X.X.X:port/titan?characterEncoding=UTF-8
+      username: root
+      password: root
+      driver-class-name: com.mysql.jdbc.Driver
